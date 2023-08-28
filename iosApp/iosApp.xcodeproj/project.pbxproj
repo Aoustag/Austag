@@ -59,7 +59,6 @@
 		7555FF72242A565900829871 = {
 			isa = PBXGroup;
 			children = (
-				84AF4A282A9D44D100282849 /* ComposeView.swift */,
 				7555FF7D242A565900829871 /* iosApp */,
 				7555FF7C242A565900829871 /* Products */,
 				7555FFB0242A642200829871 /* Frameworks */,
@@ -77,6 +76,7 @@
 		7555FF7D242A565900829871 /* iosApp */ = {
 			isa = PBXGroup;
 			children = (
+				84AF4A282A9D44D100282849 /* ComposeView.swift */,
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF82242A565900829871 /* ContentView.swift */,
 				7555FF8C242A565B00829871 /* Info.plist */,
