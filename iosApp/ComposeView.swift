@@ -8,10 +8,11 @@
 
 import Foundation
 import SwiftUI
-import shared
+//import shared
 
 struct ComposeView:UIViewControllerRepresentable{
+    func updateUIViewController(_ uiViewController: UIViewControllerType, context: Context) {}
     func makeUIViewController(context: Context) -> some UIViewController {
-        
+        //AppKt.MainViewController()
     }
 }
