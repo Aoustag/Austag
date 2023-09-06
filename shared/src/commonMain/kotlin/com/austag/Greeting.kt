@@ -1,4 +1,4 @@
-package com.gigm.austag
+package com.austag
 
 class Greeting {
     private val platform: Platform = getPlatform()

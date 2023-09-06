@@ -1,4 +1,4 @@
-package com.gigm.austag.android
+package com.austag.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,8 +8,8 @@ import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.gigm.austag.App
-import com.gigm.austag.Greeting
+import com.austag.App
+import com.austag.Greeting
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
