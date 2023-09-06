@@ -1,4 +1,4 @@
-package com.gigm.austag
+package com.austag
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background

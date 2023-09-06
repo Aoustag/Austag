@@ -1,5 +1,6 @@
-package com.gigm.austag
+package com.austag
 
+import com.austag.Platform
 import platform.UIKit.UIDevice
 
 class IOSPlatform: Platform {

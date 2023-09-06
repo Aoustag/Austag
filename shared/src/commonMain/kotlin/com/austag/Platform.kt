@@ -1,4 +1,4 @@
-package com.gigm.austag
+package com.austag
 
 interface Platform {
     val name: String

@@ -1,4 +1,4 @@
-package com.gigm.austag.android
+package com.austag.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

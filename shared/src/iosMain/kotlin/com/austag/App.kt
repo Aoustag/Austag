@@ -1,5 +1,6 @@
-package com.gigm.austag
+package com.austag
 
 import androidx.compose.ui.window.ComposeUIViewController
+import com.austag.App
 
 fun MainViewController() = ComposeUIViewController { App() }
