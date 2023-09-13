@@ -32,7 +32,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-object ReusableComponents {
+/**
+ * The Composables are better of as standalone functions than been enclosed in a static class
+ */
+
     @Composable
     fun ViewHeader(headerTitle: String, body:@Composable()()->Unit, onBackPressed:()->Unit){
         Column(modifier = Modifier
@@ -147,4 +150,8 @@ object ReusableComponents {
             )
         }
     }
-}
+
+/**
+ * It's preferred to tie composables with [@Previews]
+ */
+
